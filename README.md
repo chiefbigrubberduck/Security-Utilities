@@ -3,7 +3,7 @@ A set of security-oriented scripts for various purposes. Currently available sci
 * Mac Spoofer
 * Managed to Monitor
 
-Check out the specified sections below for instructions on using the scripts. If you want any utilities added, open an issue and voice your request.
+Check out the specified sections below for instructions on using the scripts. If you want any utilities added, open an issue and voice your request. Keep in mind these scripts are built for Linux and are for Linux only.
 
 ## Mac Spoofer
 <img width="474" height="206" alt="macchanger" src="https://github.com/user-attachments/assets/1106147f-ab42-442e-9d7b-b00ff2410b09" />
