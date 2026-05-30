@@ -51,5 +51,10 @@ Download the script bundle you want (simple or user-friendly) from the releases 
  5. It will ask for your password because the script requires sudo permissions
  6. You can also add them to your `$PATH` by running `cp (your script) /usr/local/bin/(your script name, without the .sh ending)` and then `chmod a+rw /usr/local/bin/(your copied script)`
 
+# Folder Hardening
+A simple script that writes to fstab and tells your chosen folder not to let any binaries execute, increasing the safety of your device and resistance to malware.
+
+Instructions underway
+
 # Disclaimer
 I (chiefbigrubberduck) am not responsible for any issues or problems (of any sort) regarding anything related or tangentially related to the hosted scripts. The user must be aware of what these scripts will do. They are for educational purposes only. Anything outside of what is considered "educational" is not endorsed by me, nor my collaborators. Regard the MIT License for more information.
